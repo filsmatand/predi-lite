@@ -1,2 +1,2 @@
 # predi-lite
-<p>site des prediction </p>
+<p>site de prediction </p>
