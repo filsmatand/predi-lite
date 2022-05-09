@@ -1,4 +1,4 @@
 <h3> predi-lite. </h3>
-<p>un site web de predicati</p>
+<p>un site web de predicat</p>
 
 
